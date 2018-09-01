@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+}
+
+body {
+    background-color: lightblue;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    visibility: visible;
+}
+
+#jqqd {
+    display: block;
+    visibility: visible;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    color: gray;
+    font-size: 20px;
+    text-shadow: 2px 2px 1px beige;
+    font-weight: bold;
+    margin: 0 auto;
+    margin-top: 50px;
+}
