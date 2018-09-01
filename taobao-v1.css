@@ -200,6 +200,7 @@ ul li {
 .content>img {
     position: relative;
     float: left;
+    margin-left: 80px;
 }
 
 .content-div-all {
