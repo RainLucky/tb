@@ -1,0 +1,1 @@
+var message = document.querySelectorAll('.message>ul>li');
