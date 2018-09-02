@@ -28,11 +28,11 @@ ul li {
 
 .wrapper .nav-top {
     position: relative;
-    width: 100%;
+    width: 1190px;
     height: 35px;
     line-height: 35px;
-    padding: 0 90px;
-    background-color: #f5f5f5;
+    margin: 0 auto;
+    /* background-color: #f5f5f5; */
     box-sizing: border-box;
     overflow: hidden;
 }
@@ -197,10 +197,16 @@ ul li {
     background-color: #fff;
 }
 
-.content>img {
+.content .content-wrapper {
+    width: 1190px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.content .content-wrapper>img {
     position: relative;
     float: left;
-    margin-left: 80px;
+    /* margin-left: 80px; */
 }
 
 .content-div-all {
